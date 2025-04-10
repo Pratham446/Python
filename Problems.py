@@ -72,11 +72,19 @@
 
 # Password strength checker 
 
-password="janf"
-if len(password)<6:
-    strength="weak"
-elif len(password)<=9:
-    strength="medium"
-else :
-    strength="Strong" 
-print(strength)      
+# password="Steuen@fjanf"
+# if len(password)<6:
+#     strength="weak"
+# elif len(password)<=9:
+#     strength="medium"
+# else :
+#     strength="Strong" 
+# print(strength)      
+
+
+#Leap year
+# year=2022
+# if (year % 400 ==0)or(year % 4 ==0 and year % 100 !=0):
+#     print("leap year")
+# else:
+#     print("not a leap year")
