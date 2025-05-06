@@ -1,0 +1,8 @@
+[{
+  "name": "Alice",
+  "age": 25,
+  "email": "alice@example.com",
+  "isStudent": false,
+  "skills": ["Python", "HTML", "CSS"],
+}
+]
